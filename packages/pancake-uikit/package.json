@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/zoe-cash/zoeswap-toolkit/tree/master/packages/zoeswap-uikit",
+  "repository": "https://github.com/zoe-cash/zoeswap-toolkit/tree/master/packages/pancake-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",

@@ -8,13 +8,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zoe-cash/pancake-toolkit.git"
+    "url": "git+https://github.com/zoe-cash/zoeswap-toolkit.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zoe-cash/pancake-toolkit/issues"
+    "url": "https://github.com/zoe-cash/zoeswap-toolkit/issues"
   },
-  "homepage": "https://github.com/zoe-cash/pancake-toolkit#readme",
+  "homepage": "https://github.com/zoe-cash/zoeswap-toolkit#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",
