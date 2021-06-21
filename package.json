@@ -2,7 +2,7 @@
   "name": "zoeswap-toolkit",
   "version": "4.0.0",
   "description": "zoeswap frontend packages",
-  "private": false,
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
