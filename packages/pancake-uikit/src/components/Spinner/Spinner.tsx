@@ -38,7 +38,7 @@ const RotatingPancakeIcon = styled(PancakeIcon)`
 `;
 
 const FloatingPanIcon = styled(PanIcon)`
-  animation: ${float} 6s ease-in-out infinite;
+  animation: ${float} 1.61s ease-in-out infinite;
   transform: translate3d(0, 0, 0);
 `;
 
